@@ -1,3 +1,11 @@
+# FOR SMART CONTRACT INTEGRATION I NEED
+
+ABI- Application Binary Interface
+Contract Address- 0x58b9bDaA6E3464f703550722109877D600DE24EC 
+-(Must be deployed to the chain you are interacting with...)
+-(You get the ABI from the contract address.)
+
+
 This is a [RainbowKit](https://rainbowkit.com) + [wagmi](https://wagmi.sh) + [Next.js](https://nextjs.org/) project bootstrapped with [`create-rainbowkit`](/packages/create-rainbowkit).
 
 ## Getting Started
